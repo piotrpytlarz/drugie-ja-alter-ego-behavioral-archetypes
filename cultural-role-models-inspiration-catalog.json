@@ -1,0 +1,2756 @@
+[
+  {
+    "order_index": 1,
+    "category": "book",
+    "title_pl": "Władca Pierścieni",
+    "figure_name_pl": "Samwise Gamgee",
+    "work_or_origin_pl": "Władca Pierścieni",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 2,
+    "category": "book",
+    "title_pl": "Harry Potter",
+    "figure_name_pl": "Hermiona Granger",
+    "work_or_origin_pl": "Harry Potter",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 3,
+    "category": "book",
+    "title_pl": "Mały Książę",
+    "figure_name_pl": "Mały Książę",
+    "work_or_origin_pl": "Mały Książę",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 4,
+    "category": "book",
+    "title_pl": "Duma i uprzedzenie",
+    "figure_name_pl": "Elizabeth Bennet",
+    "work_or_origin_pl": "Duma i uprzedzenie",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 5,
+    "category": "book",
+    "title_pl": "Hobbit",
+    "figure_name_pl": "Bilbo Baggins",
+    "work_or_origin_pl": "Hobbit",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 6,
+    "category": "book",
+    "title_pl": "Sherlock Holmes",
+    "figure_name_pl": "Sherlock Holmes",
+    "work_or_origin_pl": "Sherlock Holmes",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 7,
+    "category": "book",
+    "title_pl": "Opowieści z Narnii",
+    "figure_name_pl": "Łucja Pevensie",
+    "work_or_origin_pl": "Opowieści z Narnii",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 8,
+    "category": "book",
+    "title_pl": "Pippi Pończoszanka",
+    "figure_name_pl": "Pippi Pończoszanka",
+    "work_or_origin_pl": "Pippi Pończoszanka",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 9,
+    "category": "book",
+    "title_pl": "Alicja w Krainie Czarów",
+    "figure_name_pl": "Alicja",
+    "work_or_origin_pl": "Alicja w Krainie Czarów",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 10,
+    "category": "book",
+    "title_pl": "Kubuś Puchatek",
+    "figure_name_pl": "Kubuś Puchatek",
+    "work_or_origin_pl": "Kubuś Puchatek",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 11,
+    "category": "book",
+    "title_pl": "Muminki",
+    "figure_name_pl": "Muminek",
+    "work_or_origin_pl": "Muminki",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 12,
+    "category": "book",
+    "title_pl": "Przygody Tomka Sawyera",
+    "figure_name_pl": "Tomek Sawyer",
+    "work_or_origin_pl": "Przygody Tomka Sawyera",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 13,
+    "category": "book",
+    "title_pl": "Przygody Hucka Finna",
+    "figure_name_pl": "Huck Finn",
+    "work_or_origin_pl": "Przygody Hucka Finna",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 14,
+    "category": "book",
+    "title_pl": "Dzieci z Bullerbyn",
+    "figure_name_pl": "Lisa",
+    "work_or_origin_pl": "Dzieci z Bullerbyn",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 15,
+    "category": "book",
+    "title_pl": "Mikołajek",
+    "figure_name_pl": "Mikołajek",
+    "work_or_origin_pl": "Mikołajek",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 16,
+    "category": "book",
+    "title_pl": "Don Kichot",
+    "figure_name_pl": "Don Kichot",
+    "work_or_origin_pl": "Don Kichot",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 17,
+    "category": "book",
+    "title_pl": "Robinson Crusoe",
+    "figure_name_pl": "Robinson Crusoe",
+    "work_or_origin_pl": "Robinson Crusoe",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 18,
+    "category": "book",
+    "title_pl": "Małe kobietki",
+    "figure_name_pl": "Jo March",
+    "work_or_origin_pl": "Małe kobietki",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 19,
+    "category": "book",
+    "title_pl": "Jane Eyre",
+    "figure_name_pl": "Jane Eyre",
+    "work_or_origin_pl": "Jane Eyre",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 20,
+    "category": "book",
+    "title_pl": "Przygody Sindbada Żeglarza",
+    "figure_name_pl": "Sindbad Żeglarz",
+    "work_or_origin_pl": "Przygody Sindbada Żeglarza",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 21,
+    "category": "book",
+    "title_pl": "W osiemdziesiąt dni dookoła świata",
+    "figure_name_pl": "Phileas Fogg",
+    "work_or_origin_pl": "W osiemdziesiąt dni dookoła świata",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 22,
+    "category": "book",
+    "title_pl": "Dwadzieścia tysięcy mil podmorskiej żeglugi",
+    "figure_name_pl": "Kapitan Nemo",
+    "work_or_origin_pl": "Dwadzieścia tysięcy mil podmorskiej żeglugi",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 23,
+    "category": "book",
+    "title_pl": "Hrabia Monte Christo",
+    "figure_name_pl": "Edmond Dantès",
+    "work_or_origin_pl": "Hrabia Monte Christo",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 24,
+    "category": "book",
+    "title_pl": "Trzej muszkieterowie",
+    "figure_name_pl": "D’Artagnan",
+    "work_or_origin_pl": "Trzej muszkieterowie",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 25,
+    "category": "book",
+    "title_pl": "Diuna",
+    "figure_name_pl": "Paul Atryda",
+    "work_or_origin_pl": "Diuna",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 26,
+    "category": "book",
+    "title_pl": "Wiedźmin",
+    "figure_name_pl": "Geralt z Rivii",
+    "work_or_origin_pl": "Wiedźmin",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 27,
+    "category": "book",
+    "title_pl": "Igrzyska śmierci",
+    "figure_name_pl": "Katniss Everdeen",
+    "work_or_origin_pl": "Igrzyska śmierci",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 28,
+    "category": "book",
+    "title_pl": "Percy Jackson i bogowie olimpijscy",
+    "figure_name_pl": "Percy Jackson",
+    "work_or_origin_pl": "Percy Jackson i bogowie olimpijscy",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 29,
+    "category": "book",
+    "title_pl": "Zabić drozda",
+    "figure_name_pl": "Atticus Finch",
+    "work_or_origin_pl": "Zabić drozda",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 30,
+    "category": "book",
+    "title_pl": "Lalka",
+    "figure_name_pl": "Stanisław Wokulski",
+    "work_or_origin_pl": "Lalka",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 31,
+    "category": "book",
+    "title_pl": "Ania z Zielonego Wzgórza",
+    "figure_name_pl": "Ania Shirley",
+    "work_or_origin_pl": "Ania z Zielonego Wzgórza",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 32,
+    "category": "book",
+    "title_pl": "Tajemniczy ogród",
+    "figure_name_pl": "Mary Lennox",
+    "work_or_origin_pl": "Tajemniczy ogród",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 33,
+    "category": "book",
+    "title_pl": "Pollyanna",
+    "figure_name_pl": "Pollyanna",
+    "work_or_origin_pl": "Pollyanna",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 34,
+    "category": "book",
+    "title_pl": "Mary Poppins",
+    "figure_name_pl": "Mary Poppins",
+    "work_or_origin_pl": "Mary Poppins",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 35,
+    "category": "film",
+    "title_pl": "Gwiezdne wojny",
+    "figure_name_pl": "Leia Organa",
+    "work_or_origin_pl": "Gwiezdne wojny",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 36,
+    "category": "film",
+    "title_pl": "Rocky",
+    "figure_name_pl": "Rocky Balboa",
+    "work_or_origin_pl": "Rocky",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 37,
+    "category": "film",
+    "title_pl": "Amelia",
+    "figure_name_pl": "Amelia Poulain",
+    "work_or_origin_pl": "Amelia",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 38,
+    "category": "film",
+    "title_pl": "Matrix",
+    "figure_name_pl": "Neo",
+    "work_or_origin_pl": "Matrix",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 39,
+    "category": "film",
+    "title_pl": "Vaiana: Skarb oceanu",
+    "figure_name_pl": "Vaiana",
+    "work_or_origin_pl": "Vaiana: Skarb oceanu",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 40,
+    "category": "film",
+    "title_pl": "Indiana Jones",
+    "figure_name_pl": "Indiana Jones",
+    "work_or_origin_pl": "Indiana Jones",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 41,
+    "category": "film",
+    "title_pl": "Powrót do przyszłości",
+    "figure_name_pl": "Marty McFly",
+    "work_or_origin_pl": "Powrót do przyszłości",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 42,
+    "category": "film",
+    "title_pl": "Forrest Gump",
+    "figure_name_pl": "Forrest Gump",
+    "work_or_origin_pl": "Forrest Gump",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 43,
+    "category": "film",
+    "title_pl": "Gladiator",
+    "figure_name_pl": "Maximus",
+    "work_or_origin_pl": "Gladiator",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 44,
+    "category": "film",
+    "title_pl": "Władca Pierścieni",
+    "figure_name_pl": "Aragorn",
+    "work_or_origin_pl": "Władca Pierścieni",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 45,
+    "category": "film",
+    "title_pl": "Piraci z Karaibów",
+    "figure_name_pl": "Jack Sparrow",
+    "work_or_origin_pl": "Piraci z Karaibów",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 46,
+    "category": "film",
+    "title_pl": "James Bond",
+    "figure_name_pl": "James Bond",
+    "work_or_origin_pl": "James Bond",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 47,
+    "category": "film",
+    "title_pl": "Harry Potter",
+    "figure_name_pl": "Harry Potter",
+    "work_or_origin_pl": "Harry Potter",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 48,
+    "category": "film",
+    "title_pl": "Legalna blondynka",
+    "figure_name_pl": "Elle Woods",
+    "work_or_origin_pl": "Legalna blondynka",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 49,
+    "category": "film",
+    "title_pl": "Diabeł ubiera się u Prady",
+    "figure_name_pl": "Andy Sachs",
+    "work_or_origin_pl": "Diabeł ubiera się u Prady",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 50,
+    "category": "film",
+    "title_pl": "Kung Fu Panda",
+    "figure_name_pl": "Po",
+    "work_or_origin_pl": "Kung Fu Panda",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 51,
+    "category": "film",
+    "title_pl": "Jak wytresować smoka",
+    "figure_name_pl": "Czkawka",
+    "work_or_origin_pl": "Jak wytresować smoka",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 52,
+    "category": "film",
+    "title_pl": "Kraina lodu",
+    "figure_name_pl": "Elsa",
+    "work_or_origin_pl": "Kraina lodu",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 53,
+    "category": "film",
+    "title_pl": "Król Lew",
+    "figure_name_pl": "Simba",
+    "work_or_origin_pl": "Król Lew",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 54,
+    "category": "film",
+    "title_pl": "Zwierzogród",
+    "figure_name_pl": "Judy Hopps",
+    "work_or_origin_pl": "Zwierzogród",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 55,
+    "category": "film",
+    "title_pl": "WALL·E",
+    "figure_name_pl": "WALL·E",
+    "work_or_origin_pl": "WALL·E",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 56,
+    "category": "film",
+    "title_pl": "Ratatuj",
+    "figure_name_pl": "Remy",
+    "work_or_origin_pl": "Ratatuj",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 57,
+    "category": "film",
+    "title_pl": "Gdzie jest Nemo",
+    "figure_name_pl": "Marlin",
+    "work_or_origin_pl": "Gdzie jest Nemo",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 58,
+    "category": "film",
+    "title_pl": "Toy Story",
+    "figure_name_pl": "Chudy",
+    "work_or_origin_pl": "Toy Story",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 59,
+    "category": "film",
+    "title_pl": "Shrek",
+    "figure_name_pl": "Shrek",
+    "work_or_origin_pl": "Shrek",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 60,
+    "category": "film",
+    "title_pl": "Spider-Man",
+    "figure_name_pl": "Peter Parker",
+    "work_or_origin_pl": "Spider-Man",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 61,
+    "category": "film",
+    "title_pl": "Czarna Pantera",
+    "figure_name_pl": "T’Challa",
+    "work_or_origin_pl": "Czarna Pantera",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 62,
+    "category": "film",
+    "title_pl": "Wonder Woman",
+    "figure_name_pl": "Diana Prince",
+    "work_or_origin_pl": "Wonder Woman",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 63,
+    "category": "film",
+    "title_pl": "Marsjanin",
+    "figure_name_pl": "Mark Watney",
+    "work_or_origin_pl": "Marsjanin",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 64,
+    "category": "film",
+    "title_pl": "Interstellar",
+    "figure_name_pl": "Joseph Cooper",
+    "work_or_origin_pl": "Interstellar",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 65,
+    "category": "film",
+    "title_pl": "Paddington",
+    "figure_name_pl": "Paddington",
+    "work_or_origin_pl": "Paddington",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 66,
+    "category": "film",
+    "title_pl": "Mulan",
+    "figure_name_pl": "Mulan",
+    "work_or_origin_pl": "Mulan",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 67,
+    "category": "film",
+    "title_pl": "Iniemamocni",
+    "figure_name_pl": "Helen Parr",
+    "work_or_origin_pl": "Iniemamocni",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 68,
+    "category": "film",
+    "title_pl": "Merida Waleczna",
+    "figure_name_pl": "Merida",
+    "work_or_origin_pl": "Merida Waleczna",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 69,
+    "category": "series",
+    "title_pl": "Ted Lasso",
+    "figure_name_pl": "Ted Lasso",
+    "work_or_origin_pl": "Ted Lasso",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 70,
+    "category": "series",
+    "title_pl": "Gambit królowej",
+    "figure_name_pl": "Beth Harmon",
+    "work_or_origin_pl": "Gambit królowej",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 71,
+    "category": "series",
+    "title_pl": "Star Trek",
+    "figure_name_pl": "Jean-Luc Picard",
+    "work_or_origin_pl": "Star Trek: Następne pokolenie",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 72,
+    "category": "series",
+    "title_pl": "Sherlock",
+    "figure_name_pl": "Sherlock Holmes",
+    "work_or_origin_pl": "Sherlock",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 73,
+    "category": "series",
+    "title_pl": "Avatar: Legenda Aanga",
+    "figure_name_pl": "Aang",
+    "work_or_origin_pl": "Avatar: Legenda Aanga",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 74,
+    "category": "series",
+    "title_pl": "Przyjaciele",
+    "figure_name_pl": "Monica Geller",
+    "work_or_origin_pl": "Przyjaciele",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 75,
+    "category": "series",
+    "title_pl": "Teoria wielkiego podrywu",
+    "figure_name_pl": "Sheldon Cooper",
+    "work_or_origin_pl": "Teoria wielkiego podrywu",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 76,
+    "category": "series",
+    "title_pl": "The Office",
+    "figure_name_pl": "Pam Beesly",
+    "work_or_origin_pl": "The Office",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 77,
+    "category": "series",
+    "title_pl": "Brooklyn Nine-Nine",
+    "figure_name_pl": "Amy Santiago",
+    "work_or_origin_pl": "Brooklyn Nine-Nine",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 78,
+    "category": "series",
+    "title_pl": "Parks and Recreation",
+    "figure_name_pl": "Leslie Knope",
+    "work_or_origin_pl": "Parks and Recreation",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 79,
+    "category": "series",
+    "title_pl": "The Good Place",
+    "figure_name_pl": "Eleanor Shellstrop",
+    "work_or_origin_pl": "The Good Place",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 80,
+    "category": "series",
+    "title_pl": "Doctor Who",
+    "figure_name_pl": "Doktor",
+    "work_or_origin_pl": "Doctor Who",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 81,
+    "category": "series",
+    "title_pl": "Stranger Things",
+    "figure_name_pl": "Eleven",
+    "work_or_origin_pl": "Stranger Things",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 82,
+    "category": "series",
+    "title_pl": "Wednesday",
+    "figure_name_pl": "Wednesday Addams",
+    "work_or_origin_pl": "Wednesday",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 83,
+    "category": "series",
+    "title_pl": "Ania, nie Anna",
+    "figure_name_pl": "Ania Shirley",
+    "work_or_origin_pl": "Ania, nie Anna",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 84,
+    "category": "series",
+    "title_pl": "Suits",
+    "figure_name_pl": "Harvey Specter",
+    "work_or_origin_pl": "Suits",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 85,
+    "category": "series",
+    "title_pl": "Kochane kłopoty",
+    "figure_name_pl": "Lorelai Gilmore",
+    "work_or_origin_pl": "Kochane kłopoty",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 86,
+    "category": "series",
+    "title_pl": "Downton Abbey",
+    "figure_name_pl": "Mary Crawley",
+    "work_or_origin_pl": "Downton Abbey",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 87,
+    "category": "series",
+    "title_pl": "The Mandalorian",
+    "figure_name_pl": "Din Djarin",
+    "work_or_origin_pl": "The Mandalorian",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 88,
+    "category": "series",
+    "title_pl": "Ahsoka",
+    "figure_name_pl": "Ahsoka Tano",
+    "work_or_origin_pl": "Ahsoka",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 89,
+    "category": "series",
+    "title_pl": "Andor",
+    "figure_name_pl": "Cassian Andor",
+    "work_or_origin_pl": "Andor",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 90,
+    "category": "series",
+    "title_pl": "Loki",
+    "figure_name_pl": "Loki",
+    "work_or_origin_pl": "Loki",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 91,
+    "category": "series",
+    "title_pl": "WandaVision",
+    "figure_name_pl": "Wanda Maximoff",
+    "work_or_origin_pl": "WandaVision",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 92,
+    "category": "series",
+    "title_pl": "Gra o tron",
+    "figure_name_pl": "Brienne z Tarth",
+    "work_or_origin_pl": "Gra o tron",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 93,
+    "category": "series",
+    "title_pl": "Wikingowie",
+    "figure_name_pl": "Lagertha",
+    "work_or_origin_pl": "Wikingowie",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 94,
+    "category": "series",
+    "title_pl": "Arcane",
+    "figure_name_pl": "Vi",
+    "work_or_origin_pl": "Arcane",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 95,
+    "category": "series",
+    "title_pl": "One Piece",
+    "figure_name_pl": "Monkey D. Luffy",
+    "work_or_origin_pl": "One Piece",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 96,
+    "category": "series",
+    "title_pl": "Naruto",
+    "figure_name_pl": "Naruto Uzumaki",
+    "work_or_origin_pl": "Naruto",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 97,
+    "category": "series",
+    "title_pl": "Dragon Ball",
+    "figure_name_pl": "Son Goku",
+    "work_or_origin_pl": "Dragon Ball",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 98,
+    "category": "series",
+    "title_pl": "Legenda Korry",
+    "figure_name_pl": "Korra",
+    "work_or_origin_pl": "Legenda Korry",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 99,
+    "category": "series",
+    "title_pl": "Only Murders in the Building",
+    "figure_name_pl": "Mabel Mora",
+    "work_or_origin_pl": "Only Murders in the Building",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 100,
+    "category": "series",
+    "title_pl": "The Bear",
+    "figure_name_pl": "Sydney Adamu",
+    "work_or_origin_pl": "The Bear",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 101,
+    "category": "series",
+    "title_pl": "The Last of Us",
+    "figure_name_pl": "Ellie",
+    "work_or_origin_pl": "The Last of Us",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 102,
+    "category": "series",
+    "title_pl": "Grace i Frankie",
+    "figure_name_pl": "Frankie Bergstein",
+    "work_or_origin_pl": "Grace i Frankie",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 103,
+    "category": "person",
+    "title_pl": "Maria Skłodowska-Curie",
+    "figure_name_pl": "Maria Skłodowska-Curie",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 104,
+    "category": "person",
+    "title_pl": "David Attenborough",
+    "figure_name_pl": "David Attenborough",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 105,
+    "category": "person",
+    "title_pl": "Jane Goodall",
+    "figure_name_pl": "Jane Goodall",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 106,
+    "category": "person",
+    "title_pl": "Frida Kahlo",
+    "figure_name_pl": "Frida Kahlo",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 107,
+    "category": "person",
+    "title_pl": "Leonardo da Vinci",
+    "figure_name_pl": "Leonardo da Vinci",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 108,
+    "category": "person",
+    "title_pl": "Albert Einstein",
+    "figure_name_pl": "Albert Einstein",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 109,
+    "category": "person",
+    "title_pl": "Nikola Tesla",
+    "figure_name_pl": "Nikola Tesla",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 110,
+    "category": "person",
+    "title_pl": "Isaac Newton",
+    "figure_name_pl": "Isaac Newton",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 111,
+    "category": "person",
+    "title_pl": "Charles Darwin",
+    "figure_name_pl": "Charles Darwin",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 112,
+    "category": "person",
+    "title_pl": "Katherine Johnson",
+    "figure_name_pl": "Katherine Johnson",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 113,
+    "category": "person",
+    "title_pl": "Rosalind Franklin",
+    "figure_name_pl": "Rosalind Franklin",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 114,
+    "category": "person",
+    "title_pl": "Alan Turing",
+    "figure_name_pl": "Alan Turing",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 115,
+    "category": "person",
+    "title_pl": "Carl Sagan",
+    "figure_name_pl": "Carl Sagan",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 116,
+    "category": "person",
+    "title_pl": "Stephen Hawking",
+    "figure_name_pl": "Stephen Hawking",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 117,
+    "category": "person",
+    "title_pl": "Mikołaj Kopernik",
+    "figure_name_pl": "Mikołaj Kopernik",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 118,
+    "category": "person",
+    "title_pl": "Jan Heweliusz",
+    "figure_name_pl": "Jan Heweliusz",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 119,
+    "category": "person",
+    "title_pl": "Olga Tokarczuk",
+    "figure_name_pl": "Olga Tokarczuk",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 120,
+    "category": "person",
+    "title_pl": "Wisława Szymborska",
+    "figure_name_pl": "Wisława Szymborska",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 121,
+    "category": "person",
+    "title_pl": "Stanisław Lem",
+    "figure_name_pl": "Stanisław Lem",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 122,
+    "category": "person",
+    "title_pl": "William Shakespeare",
+    "figure_name_pl": "William Shakespeare",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 123,
+    "category": "person",
+    "title_pl": "J.R.R. Tolkien",
+    "figure_name_pl": "J.R.R. Tolkien",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 124,
+    "category": "person",
+    "title_pl": "Agatha Christie",
+    "figure_name_pl": "Agatha Christie",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 125,
+    "category": "person",
+    "title_pl": "Hayao Miyazaki",
+    "figure_name_pl": "Hayao Miyazaki",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 126,
+    "category": "person",
+    "title_pl": "Walt Disney",
+    "figure_name_pl": "Walt Disney",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 127,
+    "category": "person",
+    "title_pl": "Charlie Chaplin",
+    "figure_name_pl": "Charlie Chaplin",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 128,
+    "category": "person",
+    "title_pl": "Audrey Hepburn",
+    "figure_name_pl": "Audrey Hepburn",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 129,
+    "category": "person",
+    "title_pl": "Hedy Lamarr",
+    "figure_name_pl": "Hedy Lamarr",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 130,
+    "category": "person",
+    "title_pl": "Steve Jobs",
+    "figure_name_pl": "Steve Jobs",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 131,
+    "category": "person",
+    "title_pl": "Oprah Winfrey",
+    "figure_name_pl": "Oprah Winfrey",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 132,
+    "category": "person",
+    "title_pl": "Gordon Ramsay",
+    "figure_name_pl": "Gordon Ramsay",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 133,
+    "category": "person",
+    "title_pl": "Ada Lovelace",
+    "figure_name_pl": "Ada Lovelace",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 134,
+    "category": "person",
+    "title_pl": "Louis Pasteur",
+    "figure_name_pl": "Louis Pasteur",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 135,
+    "category": "person",
+    "title_pl": "Antoni Gaudí",
+    "figure_name_pl": "Antoni Gaudí",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 136,
+    "category": "person",
+    "title_pl": "Alexander Fleming",
+    "figure_name_pl": "Alexander Fleming",
+    "work_or_origin_pl": "Nauka, kultura i życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 137,
+    "category": "musician",
+    "title_pl": "Dawid Podsiadło",
+    "figure_name_pl": "Dawid Podsiadło",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 138,
+    "category": "musician",
+    "title_pl": "Beyoncé",
+    "figure_name_pl": "Beyoncé",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 139,
+    "category": "musician",
+    "title_pl": "Freddie Mercury",
+    "figure_name_pl": "Freddie Mercury",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 140,
+    "category": "musician",
+    "title_pl": "Taylor Swift",
+    "figure_name_pl": "Taylor Swift",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 141,
+    "category": "musician",
+    "title_pl": "Fryderyk Chopin",
+    "figure_name_pl": "Fryderyk Chopin",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 142,
+    "category": "musician",
+    "title_pl": "David Bowie",
+    "figure_name_pl": "David Bowie",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 143,
+    "category": "musician",
+    "title_pl": "Lady Gaga",
+    "figure_name_pl": "Lady Gaga",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 144,
+    "category": "musician",
+    "title_pl": "Tina Turner",
+    "figure_name_pl": "Tina Turner",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 145,
+    "category": "musician",
+    "title_pl": "Adele",
+    "figure_name_pl": "Adele",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 146,
+    "category": "musician",
+    "title_pl": "Whitney Houston",
+    "figure_name_pl": "Whitney Houston",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 147,
+    "category": "musician",
+    "title_pl": "Nina Simone",
+    "figure_name_pl": "Nina Simone",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 148,
+    "category": "musician",
+    "title_pl": "Ella Fitzgerald",
+    "figure_name_pl": "Ella Fitzgerald",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 149,
+    "category": "musician",
+    "title_pl": "Louis Armstrong",
+    "figure_name_pl": "Louis Armstrong",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 150,
+    "category": "musician",
+    "title_pl": "Prince",
+    "figure_name_pl": "Prince",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 151,
+    "category": "musician",
+    "title_pl": "Michael Jackson",
+    "figure_name_pl": "Michael Jackson",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 152,
+    "category": "musician",
+    "title_pl": "Madonna",
+    "figure_name_pl": "Madonna",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 153,
+    "category": "musician",
+    "title_pl": "Stevie Wonder",
+    "figure_name_pl": "Stevie Wonder",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 154,
+    "category": "musician",
+    "title_pl": "Bob Dylan",
+    "figure_name_pl": "Bob Dylan",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 155,
+    "category": "musician",
+    "title_pl": "Bob Marley",
+    "figure_name_pl": "Bob Marley",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 156,
+    "category": "musician",
+    "title_pl": "Elton John",
+    "figure_name_pl": "Elton John",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 157,
+    "category": "musician",
+    "title_pl": "Paul McCartney",
+    "figure_name_pl": "Paul McCartney",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 158,
+    "category": "musician",
+    "title_pl": "John Lennon",
+    "figure_name_pl": "John Lennon",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 159,
+    "category": "musician",
+    "title_pl": "Dolly Parton",
+    "figure_name_pl": "Dolly Parton",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 160,
+    "category": "musician",
+    "title_pl": "Billie Eilish",
+    "figure_name_pl": "Billie Eilish",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 161,
+    "category": "musician",
+    "title_pl": "Ed Sheeran",
+    "figure_name_pl": "Ed Sheeran",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 162,
+    "category": "musician",
+    "title_pl": "Sting",
+    "figure_name_pl": "Sting",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 163,
+    "category": "musician",
+    "title_pl": "Czesław Niemen",
+    "figure_name_pl": "Czesław Niemen",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 164,
+    "category": "musician",
+    "title_pl": "Marek Grechuta",
+    "figure_name_pl": "Marek Grechuta",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 165,
+    "category": "musician",
+    "title_pl": "Kora",
+    "figure_name_pl": "Kora",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 166,
+    "category": "musician",
+    "title_pl": "Zbigniew Wodecki",
+    "figure_name_pl": "Zbigniew Wodecki",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 167,
+    "category": "musician",
+    "title_pl": "Aretha Franklin",
+    "figure_name_pl": "Aretha Franklin",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 168,
+    "category": "musician",
+    "title_pl": "Ludwig van Beethoven",
+    "figure_name_pl": "Ludwig van Beethoven",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 169,
+    "category": "musician",
+    "title_pl": "Krzysztof Komeda",
+    "figure_name_pl": "Krzysztof Komeda",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 170,
+    "category": "musician",
+    "title_pl": "Wolfgang Amadeus Mozart",
+    "figure_name_pl": "Wolfgang Amadeus Mozart",
+    "work_or_origin_pl": "Muzyka",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 171,
+    "category": "athlete",
+    "title_pl": "Iga Świątek",
+    "figure_name_pl": "Iga Świątek",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 172,
+    "category": "athlete",
+    "title_pl": "Robert Lewandowski",
+    "figure_name_pl": "Robert Lewandowski",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 173,
+    "category": "athlete",
+    "title_pl": "Serena Williams",
+    "figure_name_pl": "Serena Williams",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 174,
+    "category": "athlete",
+    "title_pl": "Michael Jordan",
+    "figure_name_pl": "Michael Jordan",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 175,
+    "category": "athlete",
+    "title_pl": "Simone Biles",
+    "figure_name_pl": "Simone Biles",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 176,
+    "category": "athlete",
+    "title_pl": "Rafael Nadal",
+    "figure_name_pl": "Rafael Nadal",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 177,
+    "category": "athlete",
+    "title_pl": "Roger Federer",
+    "figure_name_pl": "Roger Federer",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 178,
+    "category": "athlete",
+    "title_pl": "Novak Djokovic",
+    "figure_name_pl": "Novak Djokovic",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 179,
+    "category": "athlete",
+    "title_pl": "Cristiano Ronaldo",
+    "figure_name_pl": "Cristiano Ronaldo",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 180,
+    "category": "athlete",
+    "title_pl": "Lionel Messi",
+    "figure_name_pl": "Lionel Messi",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 181,
+    "category": "athlete",
+    "title_pl": "Muhammad Ali",
+    "figure_name_pl": "Muhammad Ali",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 182,
+    "category": "athlete",
+    "title_pl": "Usain Bolt",
+    "figure_name_pl": "Usain Bolt",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 183,
+    "category": "athlete",
+    "title_pl": "Michael Phelps",
+    "figure_name_pl": "Michael Phelps",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 184,
+    "category": "athlete",
+    "title_pl": "Katie Ledecky",
+    "figure_name_pl": "Katie Ledecky",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 185,
+    "category": "athlete",
+    "title_pl": "Kobe Bryant",
+    "figure_name_pl": "Kobe Bryant",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 186,
+    "category": "athlete",
+    "title_pl": "LeBron James",
+    "figure_name_pl": "LeBron James",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 187,
+    "category": "athlete",
+    "title_pl": "Stephen Curry",
+    "figure_name_pl": "Stephen Curry",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 188,
+    "category": "athlete",
+    "title_pl": "Lewis Hamilton",
+    "figure_name_pl": "Lewis Hamilton",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 189,
+    "category": "athlete",
+    "title_pl": "Max Verstappen",
+    "figure_name_pl": "Max Verstappen",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 190,
+    "category": "athlete",
+    "title_pl": "Tiger Woods",
+    "figure_name_pl": "Tiger Woods",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 191,
+    "category": "athlete",
+    "title_pl": "Adam Małysz",
+    "figure_name_pl": "Adam Małysz",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 192,
+    "category": "athlete",
+    "title_pl": "Kamil Stoch",
+    "figure_name_pl": "Kamil Stoch",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 193,
+    "category": "athlete",
+    "title_pl": "Justyna Kowalczyk",
+    "figure_name_pl": "Justyna Kowalczyk",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 194,
+    "category": "athlete",
+    "title_pl": "Anita Włodarczyk",
+    "figure_name_pl": "Anita Włodarczyk",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 195,
+    "category": "athlete",
+    "title_pl": "Robert Korzeniowski",
+    "figure_name_pl": "Robert Korzeniowski",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 196,
+    "category": "athlete",
+    "title_pl": "Otylia Jędrzejczak",
+    "figure_name_pl": "Otylia Jędrzejczak",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 197,
+    "category": "athlete",
+    "title_pl": "Aleksandra Mirosław",
+    "figure_name_pl": "Aleksandra Mirosław",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 198,
+    "category": "athlete",
+    "title_pl": "Paweł Fajdek",
+    "figure_name_pl": "Paweł Fajdek",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 199,
+    "category": "athlete",
+    "title_pl": "Tomasz Majewski",
+    "figure_name_pl": "Tomasz Majewski",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 200,
+    "category": "athlete",
+    "title_pl": "Bartosz Kurek",
+    "figure_name_pl": "Bartosz Kurek",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 201,
+    "category": "athlete",
+    "title_pl": "Eliud Kipchoge",
+    "figure_name_pl": "Eliud Kipchoge",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 202,
+    "category": "athlete",
+    "title_pl": "Naomi Osaka",
+    "figure_name_pl": "Naomi Osaka",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 203,
+    "category": "athlete",
+    "title_pl": "Mikaela Shiffrin",
+    "figure_name_pl": "Mikaela Shiffrin",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 204,
+    "category": "athlete",
+    "title_pl": "Marit Bjørgen",
+    "figure_name_pl": "Marit Bjørgen",
+    "work_or_origin_pl": "Sport",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 205,
+    "category": "politician",
+    "title_pl": "Barack Obama",
+    "figure_name_pl": "Barack Obama",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 206,
+    "category": "politician",
+    "title_pl": "Angela Merkel",
+    "figure_name_pl": "Angela Merkel",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 207,
+    "category": "politician",
+    "title_pl": "Nelson Mandela",
+    "figure_name_pl": "Nelson Mandela",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 208,
+    "category": "politician",
+    "title_pl": "Winston Churchill",
+    "figure_name_pl": "Winston Churchill",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 209,
+    "category": "politician",
+    "title_pl": "Jacinda Ardern",
+    "figure_name_pl": "Jacinda Ardern",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 210,
+    "category": "politician",
+    "title_pl": "Abraham Lincoln",
+    "figure_name_pl": "Abraham Lincoln",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 211,
+    "category": "politician",
+    "title_pl": "George Washington",
+    "figure_name_pl": "George Washington",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 212,
+    "category": "politician",
+    "title_pl": "Thomas Jefferson",
+    "figure_name_pl": "Thomas Jefferson",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 213,
+    "category": "politician",
+    "title_pl": "Theodore Roosevelt",
+    "figure_name_pl": "Theodore Roosevelt",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 214,
+    "category": "politician",
+    "title_pl": "Franklin D. Roosevelt",
+    "figure_name_pl": "Franklin D. Roosevelt",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 215,
+    "category": "politician",
+    "title_pl": "John F. Kennedy",
+    "figure_name_pl": "John F. Kennedy",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 216,
+    "category": "politician",
+    "title_pl": "Jimmy Carter",
+    "figure_name_pl": "Jimmy Carter",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 217,
+    "category": "politician",
+    "title_pl": "Ronald Reagan",
+    "figure_name_pl": "Ronald Reagan",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 218,
+    "category": "politician",
+    "title_pl": "Bill Clinton",
+    "figure_name_pl": "Bill Clinton",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 219,
+    "category": "politician",
+    "title_pl": "Joe Biden",
+    "figure_name_pl": "Joe Biden",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 220,
+    "category": "politician",
+    "title_pl": "Donald Trump",
+    "figure_name_pl": "Donald Trump",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 221,
+    "category": "politician",
+    "title_pl": "Charles de Gaulle",
+    "figure_name_pl": "Charles de Gaulle",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 222,
+    "category": "politician",
+    "title_pl": "Emmanuel Macron",
+    "figure_name_pl": "Emmanuel Macron",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 223,
+    "category": "politician",
+    "title_pl": "Margaret Thatcher",
+    "figure_name_pl": "Margaret Thatcher",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 224,
+    "category": "politician",
+    "title_pl": "Tony Blair",
+    "figure_name_pl": "Tony Blair",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 225,
+    "category": "politician",
+    "title_pl": "Václav Havel",
+    "figure_name_pl": "Václav Havel",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 226,
+    "category": "politician",
+    "title_pl": "Lech Wałęsa",
+    "figure_name_pl": "Lech Wałęsa",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 227,
+    "category": "politician",
+    "title_pl": "Tadeusz Mazowiecki",
+    "figure_name_pl": "Tadeusz Mazowiecki",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 228,
+    "category": "politician",
+    "title_pl": "Donald Tusk",
+    "figure_name_pl": "Donald Tusk",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 229,
+    "category": "politician",
+    "title_pl": "Andrzej Duda",
+    "figure_name_pl": "Andrzej Duda",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 230,
+    "category": "politician",
+    "title_pl": "Olof Palme",
+    "figure_name_pl": "Olof Palme",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 231,
+    "category": "politician",
+    "title_pl": "Indira Gandhi",
+    "figure_name_pl": "Indira Gandhi",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 232,
+    "category": "politician",
+    "title_pl": "Jawaharlal Nehru",
+    "figure_name_pl": "Jawaharlal Nehru",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 233,
+    "category": "politician",
+    "title_pl": "Golda Meir",
+    "figure_name_pl": "Golda Meir",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 234,
+    "category": "politician",
+    "title_pl": "Konrad Adenauer",
+    "figure_name_pl": "Konrad Adenauer",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 235,
+    "category": "politician",
+    "title_pl": "Willy Brandt",
+    "figure_name_pl": "Willy Brandt",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 236,
+    "category": "politician",
+    "title_pl": "Robert Schuman",
+    "figure_name_pl": "Robert Schuman",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 237,
+    "category": "politician",
+    "title_pl": "Lee Kuan Yew",
+    "figure_name_pl": "Lee Kuan Yew",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 238,
+    "category": "politician",
+    "title_pl": "Sanna Marin",
+    "figure_name_pl": "Sanna Marin",
+    "work_or_origin_pl": "Życie publiczne",
+    "figure_kind": "public",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 239,
+    "category": "game",
+    "title_pl": "Wiedźmin 3",
+    "figure_name_pl": "Geralt z Rivii",
+    "work_or_origin_pl": "Wiedźmin",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 240,
+    "category": "game",
+    "title_pl": "Tomb Raider",
+    "figure_name_pl": "Lara Croft",
+    "work_or_origin_pl": "Tomb Raider",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 241,
+    "category": "game",
+    "title_pl": "The Legend of Zelda",
+    "figure_name_pl": "Link",
+    "work_or_origin_pl": "The Legend of Zelda",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 242,
+    "category": "game",
+    "title_pl": "Horizon Zero Dawn",
+    "figure_name_pl": "Aloy",
+    "work_or_origin_pl": "Horizon Zero Dawn",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 243,
+    "category": "game",
+    "title_pl": "Life is Strange",
+    "figure_name_pl": "Max Caulfield",
+    "work_or_origin_pl": "Life is Strange",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 244,
+    "category": "game",
+    "title_pl": "Super Mario",
+    "figure_name_pl": "Mario",
+    "work_or_origin_pl": "Super Mario",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 245,
+    "category": "game",
+    "title_pl": "Sonic the Hedgehog",
+    "figure_name_pl": "Sonic",
+    "work_or_origin_pl": "Sonic the Hedgehog",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 246,
+    "category": "game",
+    "title_pl": "Uncharted",
+    "figure_name_pl": "Nathan Drake",
+    "work_or_origin_pl": "Uncharted",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 247,
+    "category": "game",
+    "title_pl": "Assassin’s Creed II",
+    "figure_name_pl": "Ezio Auditore",
+    "work_or_origin_pl": "Assassin’s Creed II",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 248,
+    "category": "game",
+    "title_pl": "Portal 2",
+    "figure_name_pl": "Chell",
+    "work_or_origin_pl": "Portal 2",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 249,
+    "category": "game",
+    "title_pl": "Mass Effect",
+    "figure_name_pl": "Komandor Shepard",
+    "work_or_origin_pl": "Mass Effect",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 250,
+    "category": "game",
+    "title_pl": "Hades",
+    "figure_name_pl": "Zagreus",
+    "work_or_origin_pl": "Hades",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 251,
+    "category": "game",
+    "title_pl": "Celeste",
+    "figure_name_pl": "Madeline",
+    "work_or_origin_pl": "Celeste",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 252,
+    "category": "game",
+    "title_pl": "Undertale",
+    "figure_name_pl": "Papyrus",
+    "work_or_origin_pl": "Undertale",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 253,
+    "category": "game",
+    "title_pl": "Final Fantasy VII",
+    "figure_name_pl": "Cloud Strife",
+    "work_or_origin_pl": "Final Fantasy VII",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 254,
+    "category": "game",
+    "title_pl": "Final Fantasy X",
+    "figure_name_pl": "Tidus",
+    "work_or_origin_pl": "Final Fantasy X",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 255,
+    "category": "game",
+    "title_pl": "Persona 5",
+    "figure_name_pl": "Joker",
+    "work_or_origin_pl": "Persona 5",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 256,
+    "category": "game",
+    "title_pl": "Baldur’s Gate 3",
+    "figure_name_pl": "Karlach",
+    "work_or_origin_pl": "Baldur’s Gate 3",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 257,
+    "category": "game",
+    "title_pl": "Disco Elysium",
+    "figure_name_pl": "Kim Kitsuragi",
+    "work_or_origin_pl": "Disco Elysium",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 258,
+    "category": "game",
+    "title_pl": "God of War",
+    "figure_name_pl": "Kratos",
+    "work_or_origin_pl": "God of War",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 259,
+    "category": "game",
+    "title_pl": "Red Dead Redemption 2",
+    "figure_name_pl": "Arthur Morgan",
+    "work_or_origin_pl": "Red Dead Redemption 2",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 260,
+    "category": "game",
+    "title_pl": "The Last of Us",
+    "figure_name_pl": "Ellie",
+    "work_or_origin_pl": "The Last of Us",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 261,
+    "category": "game",
+    "title_pl": "The Walking Dead",
+    "figure_name_pl": "Clementine",
+    "work_or_origin_pl": "The Walking Dead",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 262,
+    "category": "game",
+    "title_pl": "Detroit: Become Human",
+    "figure_name_pl": "Connor",
+    "work_or_origin_pl": "Detroit: Become Human",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 263,
+    "category": "game",
+    "title_pl": "Control",
+    "figure_name_pl": "Jesse Faden",
+    "work_or_origin_pl": "Control",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 264,
+    "category": "game",
+    "title_pl": "Alan Wake",
+    "figure_name_pl": "Alan Wake",
+    "work_or_origin_pl": "Alan Wake",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 265,
+    "category": "game",
+    "title_pl": "Resident Evil 2",
+    "figure_name_pl": "Claire Redfield",
+    "work_or_origin_pl": "Resident Evil 2",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 266,
+    "category": "game",
+    "title_pl": "Metroid",
+    "figure_name_pl": "Samus Aran",
+    "work_or_origin_pl": "Metroid",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 267,
+    "category": "game",
+    "title_pl": "Mirror’s Edge",
+    "figure_name_pl": "Faith Connors",
+    "work_or_origin_pl": "Mirror’s Edge",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 268,
+    "category": "game",
+    "title_pl": "Phoenix Wright: Ace Attorney",
+    "figure_name_pl": "Phoenix Wright",
+    "work_or_origin_pl": "Phoenix Wright: Ace Attorney",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 269,
+    "category": "game",
+    "title_pl": "Kirby",
+    "figure_name_pl": "Kirby",
+    "work_or_origin_pl": "Kirby",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 270,
+    "category": "game",
+    "title_pl": "Beyond Good & Evil",
+    "figure_name_pl": "Jade",
+    "work_or_origin_pl": "Beyond Good & Evil",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 271,
+    "category": "game",
+    "title_pl": "Spiritfarer",
+    "figure_name_pl": "Stella",
+    "work_or_origin_pl": "Spiritfarer",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 272,
+    "category": "game",
+    "title_pl": "Stardew Valley",
+    "figure_name_pl": "Leah",
+    "work_or_origin_pl": "Stardew Valley",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 273,
+    "category": "character",
+    "title_pl": "Hermiona Granger",
+    "figure_name_pl": "Hermiona Granger",
+    "work_or_origin_pl": "Harry Potter",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 274,
+    "category": "character",
+    "title_pl": "Samwise Gamgee",
+    "figure_name_pl": "Samwise Gamgee",
+    "work_or_origin_pl": "Władca Pierścieni",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 275,
+    "category": "character",
+    "title_pl": "Leia Organa",
+    "figure_name_pl": "Leia Organa",
+    "work_or_origin_pl": "Gwiezdne wojny",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 276,
+    "category": "character",
+    "title_pl": "Aragorn",
+    "figure_name_pl": "Aragorn",
+    "work_or_origin_pl": "Władca Pierścieni",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 277,
+    "category": "character",
+    "title_pl": "Bilbo Baggins",
+    "figure_name_pl": "Bilbo Baggins",
+    "work_or_origin_pl": "Hobbit",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 278,
+    "category": "character",
+    "title_pl": "Sherlock Holmes",
+    "figure_name_pl": "Sherlock Holmes",
+    "work_or_origin_pl": "Sherlock Holmes",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 279,
+    "category": "character",
+    "title_pl": "Elizabeth Bennet",
+    "figure_name_pl": "Elizabeth Bennet",
+    "work_or_origin_pl": "Duma i uprzedzenie",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 280,
+    "category": "character",
+    "title_pl": "Jo March",
+    "figure_name_pl": "Jo March",
+    "work_or_origin_pl": "Małe kobietki",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 281,
+    "category": "character",
+    "title_pl": "Jane Eyre",
+    "figure_name_pl": "Jane Eyre",
+    "work_or_origin_pl": "Jane Eyre",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 282,
+    "category": "character",
+    "title_pl": "Pippi Pończoszanka",
+    "figure_name_pl": "Pippi Pończoszanka",
+    "work_or_origin_pl": "Pippi Pończoszanka",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 283,
+    "category": "character",
+    "title_pl": "Ania Shirley",
+    "figure_name_pl": "Ania Shirley",
+    "work_or_origin_pl": "Ania z Zielonego Wzgórza",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 284,
+    "category": "character",
+    "title_pl": "Atticus Finch",
+    "figure_name_pl": "Atticus Finch",
+    "work_or_origin_pl": "Zabić drozda",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 285,
+    "category": "character",
+    "title_pl": "Katniss Everdeen",
+    "figure_name_pl": "Katniss Everdeen",
+    "work_or_origin_pl": "Igrzyska śmierci",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 286,
+    "category": "character",
+    "title_pl": "Geralt z Rivii",
+    "figure_name_pl": "Geralt z Rivii",
+    "work_or_origin_pl": "Wiedźmin",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 287,
+    "category": "character",
+    "title_pl": "Lara Croft",
+    "figure_name_pl": "Lara Croft",
+    "work_or_origin_pl": "Tomb Raider",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 288,
+    "category": "character",
+    "title_pl": "Jean-Luc Picard",
+    "figure_name_pl": "Jean-Luc Picard",
+    "work_or_origin_pl": "Star Trek: Następne pokolenie",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 289,
+    "category": "character",
+    "title_pl": "Aang",
+    "figure_name_pl": "Aang",
+    "work_or_origin_pl": "Avatar: Legenda Aanga",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 290,
+    "category": "character",
+    "title_pl": "Korra",
+    "figure_name_pl": "Korra",
+    "work_or_origin_pl": "Legenda Korry",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 291,
+    "category": "character",
+    "title_pl": "Rocky Balboa",
+    "figure_name_pl": "Rocky Balboa",
+    "work_or_origin_pl": "Rocky",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 292,
+    "category": "character",
+    "title_pl": "Amelia Poulain",
+    "figure_name_pl": "Amelia Poulain",
+    "work_or_origin_pl": "Amelia",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 293,
+    "category": "character",
+    "title_pl": "Ellen Ripley",
+    "figure_name_pl": "Ellen Ripley",
+    "work_or_origin_pl": "Obcy",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 294,
+    "category": "character",
+    "title_pl": "Sarah Connor",
+    "figure_name_pl": "Sarah Connor",
+    "work_or_origin_pl": "Terminator",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 295,
+    "category": "character",
+    "title_pl": "Diana Prince",
+    "figure_name_pl": "Diana Prince",
+    "work_or_origin_pl": "Wonder Woman",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 296,
+    "category": "character",
+    "title_pl": "Peter Parker",
+    "figure_name_pl": "Peter Parker",
+    "work_or_origin_pl": "Spider-Man",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 297,
+    "category": "character",
+    "title_pl": "Tony Stark",
+    "figure_name_pl": "Tony Stark",
+    "work_or_origin_pl": "Iron Man",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 298,
+    "category": "character",
+    "title_pl": "Steve Rogers",
+    "figure_name_pl": "Steve Rogers",
+    "work_or_origin_pl": "Kapitan Ameryka",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 299,
+    "category": "character",
+    "title_pl": "Natasha Romanoff",
+    "figure_name_pl": "Natasha Romanoff",
+    "work_or_origin_pl": "Avengers",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 300,
+    "category": "character",
+    "title_pl": "Shuri",
+    "figure_name_pl": "Shuri",
+    "work_or_origin_pl": "Czarna Pantera",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 301,
+    "category": "character",
+    "title_pl": "T’Challa",
+    "figure_name_pl": "T’Challa",
+    "work_or_origin_pl": "Czarna Pantera",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 302,
+    "category": "character",
+    "title_pl": "Ted Lasso",
+    "figure_name_pl": "Ted Lasso",
+    "work_or_origin_pl": "Ted Lasso",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 303,
+    "category": "character",
+    "title_pl": "Paddington",
+    "figure_name_pl": "Paddington",
+    "work_or_origin_pl": "Paddington",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 304,
+    "category": "character",
+    "title_pl": "Mulan",
+    "figure_name_pl": "Mulan",
+    "work_or_origin_pl": "Mulan",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 305,
+    "category": "character",
+    "title_pl": "Vaiana",
+    "figure_name_pl": "Vaiana",
+    "work_or_origin_pl": "Vaiana: Skarb oceanu",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  },
+  {
+    "order_index": 306,
+    "category": "character",
+    "title_pl": "Leslie Knope",
+    "figure_name_pl": "Leslie Knope",
+    "work_or_origin_pl": "Parks and Recreation",
+    "figure_kind": "fictional",
+    "canonical_url": "https://drugieja.pl/"
+  }
+]

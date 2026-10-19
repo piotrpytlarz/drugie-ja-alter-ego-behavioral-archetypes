@@ -1,0 +1,307 @@
+order_index,category,title_pl,figure_name_pl,work_or_origin_pl,figure_kind,canonical_url
+1,book,Władca Pierścieni,Samwise Gamgee,Władca Pierścieni,fictional,https://drugieja.pl/
+2,book,Harry Potter,Hermiona Granger,Harry Potter,fictional,https://drugieja.pl/
+3,book,Mały Książę,Mały Książę,Mały Książę,fictional,https://drugieja.pl/
+4,book,Duma i uprzedzenie,Elizabeth Bennet,Duma i uprzedzenie,fictional,https://drugieja.pl/
+5,book,Hobbit,Bilbo Baggins,Hobbit,fictional,https://drugieja.pl/
+6,book,Sherlock Holmes,Sherlock Holmes,Sherlock Holmes,fictional,https://drugieja.pl/
+7,book,Opowieści z Narnii,Łucja Pevensie,Opowieści z Narnii,fictional,https://drugieja.pl/
+8,book,Pippi Pończoszanka,Pippi Pończoszanka,Pippi Pończoszanka,fictional,https://drugieja.pl/
+9,book,Alicja w Krainie Czarów,Alicja,Alicja w Krainie Czarów,fictional,https://drugieja.pl/
+10,book,Kubuś Puchatek,Kubuś Puchatek,Kubuś Puchatek,fictional,https://drugieja.pl/
+11,book,Muminki,Muminek,Muminki,fictional,https://drugieja.pl/
+12,book,Przygody Tomka Sawyera,Tomek Sawyer,Przygody Tomka Sawyera,fictional,https://drugieja.pl/
+13,book,Przygody Hucka Finna,Huck Finn,Przygody Hucka Finna,fictional,https://drugieja.pl/
+14,book,Dzieci z Bullerbyn,Lisa,Dzieci z Bullerbyn,fictional,https://drugieja.pl/
+15,book,Mikołajek,Mikołajek,Mikołajek,fictional,https://drugieja.pl/
+16,book,Don Kichot,Don Kichot,Don Kichot,fictional,https://drugieja.pl/
+17,book,Robinson Crusoe,Robinson Crusoe,Robinson Crusoe,fictional,https://drugieja.pl/
+18,book,Małe kobietki,Jo March,Małe kobietki,fictional,https://drugieja.pl/
+19,book,Jane Eyre,Jane Eyre,Jane Eyre,fictional,https://drugieja.pl/
+20,book,Przygody Sindbada Żeglarza,Sindbad Żeglarz,Przygody Sindbada Żeglarza,fictional,https://drugieja.pl/
+21,book,W osiemdziesiąt dni dookoła świata,Phileas Fogg,W osiemdziesiąt dni dookoła świata,fictional,https://drugieja.pl/
+22,book,Dwadzieścia tysięcy mil podmorskiej żeglugi,Kapitan Nemo,Dwadzieścia tysięcy mil podmorskiej żeglugi,fictional,https://drugieja.pl/
+23,book,Hrabia Monte Christo,Edmond Dantès,Hrabia Monte Christo,fictional,https://drugieja.pl/
+24,book,Trzej muszkieterowie,D’Artagnan,Trzej muszkieterowie,fictional,https://drugieja.pl/
+25,book,Diuna,Paul Atryda,Diuna,fictional,https://drugieja.pl/
+26,book,Wiedźmin,Geralt z Rivii,Wiedźmin,fictional,https://drugieja.pl/
+27,book,Igrzyska śmierci,Katniss Everdeen,Igrzyska śmierci,fictional,https://drugieja.pl/
+28,book,Percy Jackson i bogowie olimpijscy,Percy Jackson,Percy Jackson i bogowie olimpijscy,fictional,https://drugieja.pl/
+29,book,Zabić drozda,Atticus Finch,Zabić drozda,fictional,https://drugieja.pl/
+30,book,Lalka,Stanisław Wokulski,Lalka,fictional,https://drugieja.pl/
+31,book,Ania z Zielonego Wzgórza,Ania Shirley,Ania z Zielonego Wzgórza,fictional,https://drugieja.pl/
+32,book,Tajemniczy ogród,Mary Lennox,Tajemniczy ogród,fictional,https://drugieja.pl/
+33,book,Pollyanna,Pollyanna,Pollyanna,fictional,https://drugieja.pl/
+34,book,Mary Poppins,Mary Poppins,Mary Poppins,fictional,https://drugieja.pl/
+35,film,Gwiezdne wojny,Leia Organa,Gwiezdne wojny,fictional,https://drugieja.pl/
+36,film,Rocky,Rocky Balboa,Rocky,fictional,https://drugieja.pl/
+37,film,Amelia,Amelia Poulain,Amelia,fictional,https://drugieja.pl/
+38,film,Matrix,Neo,Matrix,fictional,https://drugieja.pl/
+39,film,Vaiana: Skarb oceanu,Vaiana,Vaiana: Skarb oceanu,fictional,https://drugieja.pl/
+40,film,Indiana Jones,Indiana Jones,Indiana Jones,fictional,https://drugieja.pl/
+41,film,Powrót do przyszłości,Marty McFly,Powrót do przyszłości,fictional,https://drugieja.pl/
+42,film,Forrest Gump,Forrest Gump,Forrest Gump,fictional,https://drugieja.pl/
+43,film,Gladiator,Maximus,Gladiator,fictional,https://drugieja.pl/
+44,film,Władca Pierścieni,Aragorn,Władca Pierścieni,fictional,https://drugieja.pl/
+45,film,Piraci z Karaibów,Jack Sparrow,Piraci z Karaibów,fictional,https://drugieja.pl/
+46,film,James Bond,James Bond,James Bond,fictional,https://drugieja.pl/
+47,film,Harry Potter,Harry Potter,Harry Potter,fictional,https://drugieja.pl/
+48,film,Legalna blondynka,Elle Woods,Legalna blondynka,fictional,https://drugieja.pl/
+49,film,Diabeł ubiera się u Prady,Andy Sachs,Diabeł ubiera się u Prady,fictional,https://drugieja.pl/
+50,film,Kung Fu Panda,Po,Kung Fu Panda,fictional,https://drugieja.pl/
+51,film,Jak wytresować smoka,Czkawka,Jak wytresować smoka,fictional,https://drugieja.pl/
+52,film,Kraina lodu,Elsa,Kraina lodu,fictional,https://drugieja.pl/
+53,film,Król Lew,Simba,Król Lew,fictional,https://drugieja.pl/
+54,film,Zwierzogród,Judy Hopps,Zwierzogród,fictional,https://drugieja.pl/
+55,film,WALL·E,WALL·E,WALL·E,fictional,https://drugieja.pl/
+56,film,Ratatuj,Remy,Ratatuj,fictional,https://drugieja.pl/
+57,film,Gdzie jest Nemo,Marlin,Gdzie jest Nemo,fictional,https://drugieja.pl/
+58,film,Toy Story,Chudy,Toy Story,fictional,https://drugieja.pl/
+59,film,Shrek,Shrek,Shrek,fictional,https://drugieja.pl/
+60,film,Spider-Man,Peter Parker,Spider-Man,fictional,https://drugieja.pl/
+61,film,Czarna Pantera,T’Challa,Czarna Pantera,fictional,https://drugieja.pl/
+62,film,Wonder Woman,Diana Prince,Wonder Woman,fictional,https://drugieja.pl/
+63,film,Marsjanin,Mark Watney,Marsjanin,fictional,https://drugieja.pl/
+64,film,Interstellar,Joseph Cooper,Interstellar,fictional,https://drugieja.pl/
+65,film,Paddington,Paddington,Paddington,fictional,https://drugieja.pl/
+66,film,Mulan,Mulan,Mulan,fictional,https://drugieja.pl/
+67,film,Iniemamocni,Helen Parr,Iniemamocni,fictional,https://drugieja.pl/
+68,film,Merida Waleczna,Merida,Merida Waleczna,fictional,https://drugieja.pl/
+69,series,Ted Lasso,Ted Lasso,Ted Lasso,fictional,https://drugieja.pl/
+70,series,Gambit królowej,Beth Harmon,Gambit królowej,fictional,https://drugieja.pl/
+71,series,Star Trek,Jean-Luc Picard,Star Trek: Następne pokolenie,fictional,https://drugieja.pl/
+72,series,Sherlock,Sherlock Holmes,Sherlock,fictional,https://drugieja.pl/
+73,series,Avatar: Legenda Aanga,Aang,Avatar: Legenda Aanga,fictional,https://drugieja.pl/
+74,series,Przyjaciele,Monica Geller,Przyjaciele,fictional,https://drugieja.pl/
+75,series,Teoria wielkiego podrywu,Sheldon Cooper,Teoria wielkiego podrywu,fictional,https://drugieja.pl/
+76,series,The Office,Pam Beesly,The Office,fictional,https://drugieja.pl/
+77,series,Brooklyn Nine-Nine,Amy Santiago,Brooklyn Nine-Nine,fictional,https://drugieja.pl/
+78,series,Parks and Recreation,Leslie Knope,Parks and Recreation,fictional,https://drugieja.pl/
+79,series,The Good Place,Eleanor Shellstrop,The Good Place,fictional,https://drugieja.pl/
+80,series,Doctor Who,Doktor,Doctor Who,fictional,https://drugieja.pl/
+81,series,Stranger Things,Eleven,Stranger Things,fictional,https://drugieja.pl/
+82,series,Wednesday,Wednesday Addams,Wednesday,fictional,https://drugieja.pl/
+83,series,"Ania, nie Anna",Ania Shirley,"Ania, nie Anna",fictional,https://drugieja.pl/
+84,series,Suits,Harvey Specter,Suits,fictional,https://drugieja.pl/
+85,series,Kochane kłopoty,Lorelai Gilmore,Kochane kłopoty,fictional,https://drugieja.pl/
+86,series,Downton Abbey,Mary Crawley,Downton Abbey,fictional,https://drugieja.pl/
+87,series,The Mandalorian,Din Djarin,The Mandalorian,fictional,https://drugieja.pl/
+88,series,Ahsoka,Ahsoka Tano,Ahsoka,fictional,https://drugieja.pl/
+89,series,Andor,Cassian Andor,Andor,fictional,https://drugieja.pl/
+90,series,Loki,Loki,Loki,fictional,https://drugieja.pl/
+91,series,WandaVision,Wanda Maximoff,WandaVision,fictional,https://drugieja.pl/
+92,series,Gra o tron,Brienne z Tarth,Gra o tron,fictional,https://drugieja.pl/
+93,series,Wikingowie,Lagertha,Wikingowie,fictional,https://drugieja.pl/
+94,series,Arcane,Vi,Arcane,fictional,https://drugieja.pl/
+95,series,One Piece,Monkey D. Luffy,One Piece,fictional,https://drugieja.pl/
+96,series,Naruto,Naruto Uzumaki,Naruto,fictional,https://drugieja.pl/
+97,series,Dragon Ball,Son Goku,Dragon Ball,fictional,https://drugieja.pl/
+98,series,Legenda Korry,Korra,Legenda Korry,fictional,https://drugieja.pl/
+99,series,Only Murders in the Building,Mabel Mora,Only Murders in the Building,fictional,https://drugieja.pl/
+100,series,The Bear,Sydney Adamu,The Bear,fictional,https://drugieja.pl/
+101,series,The Last of Us,Ellie,The Last of Us,fictional,https://drugieja.pl/
+102,series,Grace i Frankie,Frankie Bergstein,Grace i Frankie,fictional,https://drugieja.pl/
+103,person,Maria Skłodowska-Curie,Maria Skłodowska-Curie,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+104,person,David Attenborough,David Attenborough,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+105,person,Jane Goodall,Jane Goodall,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+106,person,Frida Kahlo,Frida Kahlo,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+107,person,Leonardo da Vinci,Leonardo da Vinci,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+108,person,Albert Einstein,Albert Einstein,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+109,person,Nikola Tesla,Nikola Tesla,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+110,person,Isaac Newton,Isaac Newton,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+111,person,Charles Darwin,Charles Darwin,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+112,person,Katherine Johnson,Katherine Johnson,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+113,person,Rosalind Franklin,Rosalind Franklin,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+114,person,Alan Turing,Alan Turing,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+115,person,Carl Sagan,Carl Sagan,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+116,person,Stephen Hawking,Stephen Hawking,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+117,person,Mikołaj Kopernik,Mikołaj Kopernik,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+118,person,Jan Heweliusz,Jan Heweliusz,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+119,person,Olga Tokarczuk,Olga Tokarczuk,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+120,person,Wisława Szymborska,Wisława Szymborska,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+121,person,Stanisław Lem,Stanisław Lem,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+122,person,William Shakespeare,William Shakespeare,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+123,person,J.R.R. Tolkien,J.R.R. Tolkien,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+124,person,Agatha Christie,Agatha Christie,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+125,person,Hayao Miyazaki,Hayao Miyazaki,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+126,person,Walt Disney,Walt Disney,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+127,person,Charlie Chaplin,Charlie Chaplin,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+128,person,Audrey Hepburn,Audrey Hepburn,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+129,person,Hedy Lamarr,Hedy Lamarr,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+130,person,Steve Jobs,Steve Jobs,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+131,person,Oprah Winfrey,Oprah Winfrey,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+132,person,Gordon Ramsay,Gordon Ramsay,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+133,person,Ada Lovelace,Ada Lovelace,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+134,person,Louis Pasteur,Louis Pasteur,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+135,person,Antoni Gaudí,Antoni Gaudí,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+136,person,Alexander Fleming,Alexander Fleming,"Nauka, kultura i życie publiczne",public,https://drugieja.pl/
+137,musician,Dawid Podsiadło,Dawid Podsiadło,Muzyka,public,https://drugieja.pl/
+138,musician,Beyoncé,Beyoncé,Muzyka,public,https://drugieja.pl/
+139,musician,Freddie Mercury,Freddie Mercury,Muzyka,public,https://drugieja.pl/
+140,musician,Taylor Swift,Taylor Swift,Muzyka,public,https://drugieja.pl/
+141,musician,Fryderyk Chopin,Fryderyk Chopin,Muzyka,public,https://drugieja.pl/
+142,musician,David Bowie,David Bowie,Muzyka,public,https://drugieja.pl/
+143,musician,Lady Gaga,Lady Gaga,Muzyka,public,https://drugieja.pl/
+144,musician,Tina Turner,Tina Turner,Muzyka,public,https://drugieja.pl/
+145,musician,Adele,Adele,Muzyka,public,https://drugieja.pl/
+146,musician,Whitney Houston,Whitney Houston,Muzyka,public,https://drugieja.pl/
+147,musician,Nina Simone,Nina Simone,Muzyka,public,https://drugieja.pl/
+148,musician,Ella Fitzgerald,Ella Fitzgerald,Muzyka,public,https://drugieja.pl/
+149,musician,Louis Armstrong,Louis Armstrong,Muzyka,public,https://drugieja.pl/
+150,musician,Prince,Prince,Muzyka,public,https://drugieja.pl/
+151,musician,Michael Jackson,Michael Jackson,Muzyka,public,https://drugieja.pl/
+152,musician,Madonna,Madonna,Muzyka,public,https://drugieja.pl/
+153,musician,Stevie Wonder,Stevie Wonder,Muzyka,public,https://drugieja.pl/
+154,musician,Bob Dylan,Bob Dylan,Muzyka,public,https://drugieja.pl/
+155,musician,Bob Marley,Bob Marley,Muzyka,public,https://drugieja.pl/
+156,musician,Elton John,Elton John,Muzyka,public,https://drugieja.pl/
+157,musician,Paul McCartney,Paul McCartney,Muzyka,public,https://drugieja.pl/
+158,musician,John Lennon,John Lennon,Muzyka,public,https://drugieja.pl/
+159,musician,Dolly Parton,Dolly Parton,Muzyka,public,https://drugieja.pl/
+160,musician,Billie Eilish,Billie Eilish,Muzyka,public,https://drugieja.pl/
+161,musician,Ed Sheeran,Ed Sheeran,Muzyka,public,https://drugieja.pl/
+162,musician,Sting,Sting,Muzyka,public,https://drugieja.pl/
+163,musician,Czesław Niemen,Czesław Niemen,Muzyka,public,https://drugieja.pl/
+164,musician,Marek Grechuta,Marek Grechuta,Muzyka,public,https://drugieja.pl/
+165,musician,Kora,Kora,Muzyka,public,https://drugieja.pl/
+166,musician,Zbigniew Wodecki,Zbigniew Wodecki,Muzyka,public,https://drugieja.pl/
+167,musician,Aretha Franklin,Aretha Franklin,Muzyka,public,https://drugieja.pl/
+168,musician,Ludwig van Beethoven,Ludwig van Beethoven,Muzyka,public,https://drugieja.pl/
+169,musician,Krzysztof Komeda,Krzysztof Komeda,Muzyka,public,https://drugieja.pl/
+170,musician,Wolfgang Amadeus Mozart,Wolfgang Amadeus Mozart,Muzyka,public,https://drugieja.pl/
+171,athlete,Iga Świątek,Iga Świątek,Sport,public,https://drugieja.pl/
+172,athlete,Robert Lewandowski,Robert Lewandowski,Sport,public,https://drugieja.pl/
+173,athlete,Serena Williams,Serena Williams,Sport,public,https://drugieja.pl/
+174,athlete,Michael Jordan,Michael Jordan,Sport,public,https://drugieja.pl/
+175,athlete,Simone Biles,Simone Biles,Sport,public,https://drugieja.pl/
+176,athlete,Rafael Nadal,Rafael Nadal,Sport,public,https://drugieja.pl/
+177,athlete,Roger Federer,Roger Federer,Sport,public,https://drugieja.pl/
+178,athlete,Novak Djokovic,Novak Djokovic,Sport,public,https://drugieja.pl/
+179,athlete,Cristiano Ronaldo,Cristiano Ronaldo,Sport,public,https://drugieja.pl/
+180,athlete,Lionel Messi,Lionel Messi,Sport,public,https://drugieja.pl/
+181,athlete,Muhammad Ali,Muhammad Ali,Sport,public,https://drugieja.pl/
+182,athlete,Usain Bolt,Usain Bolt,Sport,public,https://drugieja.pl/
+183,athlete,Michael Phelps,Michael Phelps,Sport,public,https://drugieja.pl/
+184,athlete,Katie Ledecky,Katie Ledecky,Sport,public,https://drugieja.pl/
+185,athlete,Kobe Bryant,Kobe Bryant,Sport,public,https://drugieja.pl/
+186,athlete,LeBron James,LeBron James,Sport,public,https://drugieja.pl/
+187,athlete,Stephen Curry,Stephen Curry,Sport,public,https://drugieja.pl/
+188,athlete,Lewis Hamilton,Lewis Hamilton,Sport,public,https://drugieja.pl/
+189,athlete,Max Verstappen,Max Verstappen,Sport,public,https://drugieja.pl/
+190,athlete,Tiger Woods,Tiger Woods,Sport,public,https://drugieja.pl/
+191,athlete,Adam Małysz,Adam Małysz,Sport,public,https://drugieja.pl/
+192,athlete,Kamil Stoch,Kamil Stoch,Sport,public,https://drugieja.pl/
+193,athlete,Justyna Kowalczyk,Justyna Kowalczyk,Sport,public,https://drugieja.pl/
+194,athlete,Anita Włodarczyk,Anita Włodarczyk,Sport,public,https://drugieja.pl/
+195,athlete,Robert Korzeniowski,Robert Korzeniowski,Sport,public,https://drugieja.pl/
+196,athlete,Otylia Jędrzejczak,Otylia Jędrzejczak,Sport,public,https://drugieja.pl/
+197,athlete,Aleksandra Mirosław,Aleksandra Mirosław,Sport,public,https://drugieja.pl/
+198,athlete,Paweł Fajdek,Paweł Fajdek,Sport,public,https://drugieja.pl/
+199,athlete,Tomasz Majewski,Tomasz Majewski,Sport,public,https://drugieja.pl/
+200,athlete,Bartosz Kurek,Bartosz Kurek,Sport,public,https://drugieja.pl/
+201,athlete,Eliud Kipchoge,Eliud Kipchoge,Sport,public,https://drugieja.pl/
+202,athlete,Naomi Osaka,Naomi Osaka,Sport,public,https://drugieja.pl/
+203,athlete,Mikaela Shiffrin,Mikaela Shiffrin,Sport,public,https://drugieja.pl/
+204,athlete,Marit Bjørgen,Marit Bjørgen,Sport,public,https://drugieja.pl/
+205,politician,Barack Obama,Barack Obama,Życie publiczne,public,https://drugieja.pl/
+206,politician,Angela Merkel,Angela Merkel,Życie publiczne,public,https://drugieja.pl/
+207,politician,Nelson Mandela,Nelson Mandela,Życie publiczne,public,https://drugieja.pl/
+208,politician,Winston Churchill,Winston Churchill,Życie publiczne,public,https://drugieja.pl/
+209,politician,Jacinda Ardern,Jacinda Ardern,Życie publiczne,public,https://drugieja.pl/
+210,politician,Abraham Lincoln,Abraham Lincoln,Życie publiczne,public,https://drugieja.pl/
+211,politician,George Washington,George Washington,Życie publiczne,public,https://drugieja.pl/
+212,politician,Thomas Jefferson,Thomas Jefferson,Życie publiczne,public,https://drugieja.pl/
+213,politician,Theodore Roosevelt,Theodore Roosevelt,Życie publiczne,public,https://drugieja.pl/
+214,politician,Franklin D. Roosevelt,Franklin D. Roosevelt,Życie publiczne,public,https://drugieja.pl/
+215,politician,John F. Kennedy,John F. Kennedy,Życie publiczne,public,https://drugieja.pl/
+216,politician,Jimmy Carter,Jimmy Carter,Życie publiczne,public,https://drugieja.pl/
+217,politician,Ronald Reagan,Ronald Reagan,Życie publiczne,public,https://drugieja.pl/
+218,politician,Bill Clinton,Bill Clinton,Życie publiczne,public,https://drugieja.pl/
+219,politician,Joe Biden,Joe Biden,Życie publiczne,public,https://drugieja.pl/
+220,politician,Donald Trump,Donald Trump,Życie publiczne,public,https://drugieja.pl/
+221,politician,Charles de Gaulle,Charles de Gaulle,Życie publiczne,public,https://drugieja.pl/
+222,politician,Emmanuel Macron,Emmanuel Macron,Życie publiczne,public,https://drugieja.pl/
+223,politician,Margaret Thatcher,Margaret Thatcher,Życie publiczne,public,https://drugieja.pl/
+224,politician,Tony Blair,Tony Blair,Życie publiczne,public,https://drugieja.pl/
+225,politician,Václav Havel,Václav Havel,Życie publiczne,public,https://drugieja.pl/
+226,politician,Lech Wałęsa,Lech Wałęsa,Życie publiczne,public,https://drugieja.pl/
+227,politician,Tadeusz Mazowiecki,Tadeusz Mazowiecki,Życie publiczne,public,https://drugieja.pl/
+228,politician,Donald Tusk,Donald Tusk,Życie publiczne,public,https://drugieja.pl/
+229,politician,Andrzej Duda,Andrzej Duda,Życie publiczne,public,https://drugieja.pl/
+230,politician,Olof Palme,Olof Palme,Życie publiczne,public,https://drugieja.pl/
+231,politician,Indira Gandhi,Indira Gandhi,Życie publiczne,public,https://drugieja.pl/
+232,politician,Jawaharlal Nehru,Jawaharlal Nehru,Życie publiczne,public,https://drugieja.pl/
+233,politician,Golda Meir,Golda Meir,Życie publiczne,public,https://drugieja.pl/
+234,politician,Konrad Adenauer,Konrad Adenauer,Życie publiczne,public,https://drugieja.pl/
+235,politician,Willy Brandt,Willy Brandt,Życie publiczne,public,https://drugieja.pl/
+236,politician,Robert Schuman,Robert Schuman,Życie publiczne,public,https://drugieja.pl/
+237,politician,Lee Kuan Yew,Lee Kuan Yew,Życie publiczne,public,https://drugieja.pl/
+238,politician,Sanna Marin,Sanna Marin,Życie publiczne,public,https://drugieja.pl/
+239,game,Wiedźmin 3,Geralt z Rivii,Wiedźmin,fictional,https://drugieja.pl/
+240,game,Tomb Raider,Lara Croft,Tomb Raider,fictional,https://drugieja.pl/
+241,game,The Legend of Zelda,Link,The Legend of Zelda,fictional,https://drugieja.pl/
+242,game,Horizon Zero Dawn,Aloy,Horizon Zero Dawn,fictional,https://drugieja.pl/
+243,game,Life is Strange,Max Caulfield,Life is Strange,fictional,https://drugieja.pl/
+244,game,Super Mario,Mario,Super Mario,fictional,https://drugieja.pl/
+245,game,Sonic the Hedgehog,Sonic,Sonic the Hedgehog,fictional,https://drugieja.pl/
+246,game,Uncharted,Nathan Drake,Uncharted,fictional,https://drugieja.pl/
+247,game,Assassin’s Creed II,Ezio Auditore,Assassin’s Creed II,fictional,https://drugieja.pl/
+248,game,Portal 2,Chell,Portal 2,fictional,https://drugieja.pl/
+249,game,Mass Effect,Komandor Shepard,Mass Effect,fictional,https://drugieja.pl/
+250,game,Hades,Zagreus,Hades,fictional,https://drugieja.pl/
+251,game,Celeste,Madeline,Celeste,fictional,https://drugieja.pl/
+252,game,Undertale,Papyrus,Undertale,fictional,https://drugieja.pl/
+253,game,Final Fantasy VII,Cloud Strife,Final Fantasy VII,fictional,https://drugieja.pl/
+254,game,Final Fantasy X,Tidus,Final Fantasy X,fictional,https://drugieja.pl/
+255,game,Persona 5,Joker,Persona 5,fictional,https://drugieja.pl/
+256,game,Baldur’s Gate 3,Karlach,Baldur’s Gate 3,fictional,https://drugieja.pl/
+257,game,Disco Elysium,Kim Kitsuragi,Disco Elysium,fictional,https://drugieja.pl/
+258,game,God of War,Kratos,God of War,fictional,https://drugieja.pl/
+259,game,Red Dead Redemption 2,Arthur Morgan,Red Dead Redemption 2,fictional,https://drugieja.pl/
+260,game,The Last of Us,Ellie,The Last of Us,fictional,https://drugieja.pl/
+261,game,The Walking Dead,Clementine,The Walking Dead,fictional,https://drugieja.pl/
+262,game,Detroit: Become Human,Connor,Detroit: Become Human,fictional,https://drugieja.pl/
+263,game,Control,Jesse Faden,Control,fictional,https://drugieja.pl/
+264,game,Alan Wake,Alan Wake,Alan Wake,fictional,https://drugieja.pl/
+265,game,Resident Evil 2,Claire Redfield,Resident Evil 2,fictional,https://drugieja.pl/
+266,game,Metroid,Samus Aran,Metroid,fictional,https://drugieja.pl/
+267,game,Mirror’s Edge,Faith Connors,Mirror’s Edge,fictional,https://drugieja.pl/
+268,game,Phoenix Wright: Ace Attorney,Phoenix Wright,Phoenix Wright: Ace Attorney,fictional,https://drugieja.pl/
+269,game,Kirby,Kirby,Kirby,fictional,https://drugieja.pl/
+270,game,Beyond Good & Evil,Jade,Beyond Good & Evil,fictional,https://drugieja.pl/
+271,game,Spiritfarer,Stella,Spiritfarer,fictional,https://drugieja.pl/
+272,game,Stardew Valley,Leah,Stardew Valley,fictional,https://drugieja.pl/
+273,character,Hermiona Granger,Hermiona Granger,Harry Potter,fictional,https://drugieja.pl/
+274,character,Samwise Gamgee,Samwise Gamgee,Władca Pierścieni,fictional,https://drugieja.pl/
+275,character,Leia Organa,Leia Organa,Gwiezdne wojny,fictional,https://drugieja.pl/
+276,character,Aragorn,Aragorn,Władca Pierścieni,fictional,https://drugieja.pl/
+277,character,Bilbo Baggins,Bilbo Baggins,Hobbit,fictional,https://drugieja.pl/
+278,character,Sherlock Holmes,Sherlock Holmes,Sherlock Holmes,fictional,https://drugieja.pl/
+279,character,Elizabeth Bennet,Elizabeth Bennet,Duma i uprzedzenie,fictional,https://drugieja.pl/
+280,character,Jo March,Jo March,Małe kobietki,fictional,https://drugieja.pl/
+281,character,Jane Eyre,Jane Eyre,Jane Eyre,fictional,https://drugieja.pl/
+282,character,Pippi Pończoszanka,Pippi Pończoszanka,Pippi Pończoszanka,fictional,https://drugieja.pl/
+283,character,Ania Shirley,Ania Shirley,Ania z Zielonego Wzgórza,fictional,https://drugieja.pl/
+284,character,Atticus Finch,Atticus Finch,Zabić drozda,fictional,https://drugieja.pl/
+285,character,Katniss Everdeen,Katniss Everdeen,Igrzyska śmierci,fictional,https://drugieja.pl/
+286,character,Geralt z Rivii,Geralt z Rivii,Wiedźmin,fictional,https://drugieja.pl/
+287,character,Lara Croft,Lara Croft,Tomb Raider,fictional,https://drugieja.pl/
+288,character,Jean-Luc Picard,Jean-Luc Picard,Star Trek: Następne pokolenie,fictional,https://drugieja.pl/
+289,character,Aang,Aang,Avatar: Legenda Aanga,fictional,https://drugieja.pl/
+290,character,Korra,Korra,Legenda Korry,fictional,https://drugieja.pl/
+291,character,Rocky Balboa,Rocky Balboa,Rocky,fictional,https://drugieja.pl/
+292,character,Amelia Poulain,Amelia Poulain,Amelia,fictional,https://drugieja.pl/
+293,character,Ellen Ripley,Ellen Ripley,Obcy,fictional,https://drugieja.pl/
+294,character,Sarah Connor,Sarah Connor,Terminator,fictional,https://drugieja.pl/
+295,character,Diana Prince,Diana Prince,Wonder Woman,fictional,https://drugieja.pl/
+296,character,Peter Parker,Peter Parker,Spider-Man,fictional,https://drugieja.pl/
+297,character,Tony Stark,Tony Stark,Iron Man,fictional,https://drugieja.pl/
+298,character,Steve Rogers,Steve Rogers,Kapitan Ameryka,fictional,https://drugieja.pl/
+299,character,Natasha Romanoff,Natasha Romanoff,Avengers,fictional,https://drugieja.pl/
+300,character,Shuri,Shuri,Czarna Pantera,fictional,https://drugieja.pl/
+301,character,T’Challa,T’Challa,Czarna Pantera,fictional,https://drugieja.pl/
+302,character,Ted Lasso,Ted Lasso,Ted Lasso,fictional,https://drugieja.pl/
+303,character,Paddington,Paddington,Paddington,fictional,https://drugieja.pl/
+304,character,Mulan,Mulan,Mulan,fictional,https://drugieja.pl/
+305,character,Vaiana,Vaiana,Vaiana: Skarb oceanu,fictional,https://drugieja.pl/
+306,character,Leslie Knope,Leslie Knope,Parks and Recreation,fictional,https://drugieja.pl/
